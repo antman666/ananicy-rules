@@ -1,1 +1,2 @@
-
+# https://github.com/baskerville/bspwm
+{ "name": "dwm", "type": "LowLatency_RT" }
